@@ -1,68 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bin2Dec
 
-## Available Scripts
+![](gifs/my-app-working.gif)
 
-In the project directory, you can run:
+**[EN]**
+> This project has been taken from [App Ideas](https://github.com/florinpop17/app-ideas) repository
 
-### `yarn start`
+### Features
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [x]  User can enter up to  8 binary digits in one input field
+- [ ]  User must be notified if anything other than a 0 or 1 was entered
+- [x]  User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Bonus features
 
-### `yarn test`
+- [x]  User can enter a variable number of binary digits
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Observation
 
-### `yarn build`
+The rules was create an app that convert a binary number to decimal number. But I thought that would be more fun to make both.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**[PT-BR]**
+> Esse projeto foi retirado do repositório [App Ideas](https://github.com/florinpop17/app-ideas)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Recursos
 
-### `yarn eject`
+- [x]  O usuário pode inserir um número binário de até 8 digitos
+- [ ]  O usuário deve ser notificado caso o valor inserido for diferente de 1 ou 0
+- [x]  O usuário visualiza em um único campo o contéudo em decimal equivalente ao número binário
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Recursos Bônus
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [x]  O usuário pode inserir um número variado de digitos binários
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Observação
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+As regras foram criar um app que converta um número binário em decimal, mas achei divertiod fazer os dois.

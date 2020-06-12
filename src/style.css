@@ -1,0 +1,11 @@
+html, body, #root {
+  height: 100%;
+  background: rgb(247, 245, 245);
+}
+
+.App {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
