@@ -27,7 +27,7 @@ The rules was create an app that convert a binary number to decimal number. But 
 ### Recursos
 
 - [x]  O usuário pode inserir um número binário de até 8 digitos
-- [ ]  O usuário deve ser notificado caso o valor inserido for diferente de 1 ou 0
+- [x]  O usuário deve ser notificado caso o valor inserido for diferente de 1 ou 0
 - [x]  O usuário visualiza em um único campo o contéudo em decimal equivalente ao número binário
 
 ### Recursos Bônus
